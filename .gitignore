@@ -1,0 +1,8 @@
+# Ignore venv folder
+.venv
+
+# Ignore large dataset files
+.input
+train.csv
+test.csv
+submit.csv
